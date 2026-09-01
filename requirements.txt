@@ -1,0 +1,5 @@
+PySide6==6.6.1
+PyMuPDF==1.23.8
+pywin32==306
+Pillow==10.0.1
+pydantic==2.4.2
